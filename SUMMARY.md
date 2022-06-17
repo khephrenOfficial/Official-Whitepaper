@@ -1,8 +1,10 @@
 # Table of contents
 
-* [Official-Whitepaper](README.md)
+* [Introduction](README.md)
 * [Tokenomics](tokenomics/README.md)
   * [Tokenomics Allocation](tokenomics/tokenomics-allocation.md)
+* [Private / Public sale](private-public-sale.md)
+* [Khephren Use-case](khephren-use-case.md)
 * [Service Fees](service-fees.md)
 
 ## KHEPHREN LAUNCHPAD
