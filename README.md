@@ -5,3 +5,5 @@ Khephren is innovative decentralized platform building & launching self-served l
 
 
 **Why Khephren?**
+
+Multiple project with one native token to be use into ecosystem, the first project to rewards from profit of the launchpad.
