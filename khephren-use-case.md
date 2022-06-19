@@ -1,6 +1,7 @@
 # Khephren Use-case
 
-1. Khephren staking
-2.
+Khephren provide unique and benefitable use case to the community.
 
-****
+
+
+**KHEPHREN STAKING: Stake KPRN TOKEN and reward**

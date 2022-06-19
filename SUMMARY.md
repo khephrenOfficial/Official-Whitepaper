@@ -6,6 +6,7 @@
 * [Private / Public sale](private-public-sale.md)
 * [Khephren Use-case](khephren-use-case.md)
   * [Khenpren Stake](khephren-use-case/khenpren-stake.md)
+* [Ecosystem](ecosystem.md)
 * [Service Fees](service-fees.md)
 
 ## Important
