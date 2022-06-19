@@ -20,7 +20,7 @@ For example Khephren Launchpad & Staking platform earn 1500 BNB profit for the a
 
 `If total token stake is 40,000 KPRN token in silver tier this will be divided to 112.5 BNB`
 
-`112.5 KPRN / 40,000 = 0.0028 BNB per 1 KPRN token stake, if you have 500 KPRN x 0.0028 BNB = 1.4 BNB total rewards you will get + 20% discount in Khephren ecosystem.`
+`112.5 BNB / 40,000 KPRN = 0.0028 BNB per 1 KPRN token stake, if you have 500 KPRN x 0.0028 BNB = 1.4 BNB total rewards you will get + 20% discount in Khephren ecosystem.`
 
 
 

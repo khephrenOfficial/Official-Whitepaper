@@ -4,13 +4,14 @@
 * [Tokenomics](tokenomics/README.md)
   * [Tokenomics Allocation](tokenomics/tokenomics-allocation.md)
 * [Private / Public sale](private-public-sale.md)
-* [Khephren Use-case](khephren-use-case/README.md)
+* [Khephren Use-case](khephren-use-case.md)
   * [Khenpren Stake](khephren-use-case/khenpren-stake.md)
 * [Service Fees](service-fees.md)
 
 ## Important
 
-* [Page 1](important/page-1.md)
+* [Social media & website](important/social-media-and-website.md)
+* [KYC'd & Audit report](important/kycd-and-audit-report.md)
 
 ## KHEPHREN LAUNCHPAD
 
