@@ -12,8 +12,17 @@
 
 ## Important
 
+* [Audit & KYC'd partners](important/audit-and-kycd-partners.md)
 * [Social media & website](important/social-media-and-website.md)
-* [KYC'd & Audit report](important/kycd-and-audit-report.md)
+
+## Project to be Launch
+
+* [Khephren Launchpad](project-to-be-launch/khephren-launchpad.md)
+* [Khephren Staking](project-to-be-launch/khephren-staking.md)
+* [Mobile application (For Launchpad)](project-to-be-launch/mobile-application-for-launchpad.md)
+* [Review / verification website](project-to-be-launch/review-verification-website.md)
+* [Khephren NFT marketplace](project-to-be-launch/khephren-nft-marketplace.md)
+* [Khephren INO Launchpad](project-to-be-launch/khephren-ino-launchpad.md)
 
 ## KHEPHREN LAUNCHPAD
 

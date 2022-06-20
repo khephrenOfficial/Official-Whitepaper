@@ -1,7 +1,7 @@
 # Khephren Use-case
 
-Khephren provide unique and benefitable use case to the community.
+1. Stake KPRN token \
+   →Earn up to 50% revenue from Launchpad, staking platform\
+   →Get Discount in service fees\
 
-
-
-**KHEPHREN STAKING: Stake KPRN TOKEN and reward**
+2. Add Liquidity pool and stake your LP in our Farm

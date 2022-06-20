@@ -1,8 +1,10 @@
 # Social media & website
 
-Website: [https://discord.gg/WtpXHcKMKB](https://discord.gg/WtpXHcKMKB)
+Website: [https://khephren.io](https://khephren.io/)
 
-App:
+Launchpad:
+
+Staking:
 
 Telegram group:[https://t.me/Khephren\_Group](https://t.me/Khephren\_Group)
 
