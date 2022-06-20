@@ -20,9 +20,9 @@
 * [Khephren Launchpad](project-to-be-launch/khephren-launchpad.md)
 * [Khephren Staking](project-to-be-launch/khephren-staking.md)
 * [Mobile application (For Launchpad)](project-to-be-launch/mobile-application-for-launchpad.md)
-* [Review / verification website](project-to-be-launch/review-verification-website.md)
 * [Khephren NFT marketplace](project-to-be-launch/khephren-nft-marketplace.md)
 * [Khephren INO Launchpad](project-to-be-launch/khephren-ino-launchpad.md)
+* [Review / verification website](project-to-be-launch/review-verification-website.md)
 
 ## KHEPHREN LAUNCHPAD
 
