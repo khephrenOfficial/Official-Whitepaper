@@ -8,7 +8,7 @@ Khephren token, we base in our roadmap development.
     Twitter giveaway, Gleam Giveaway
 *   **July 8-11, 2022**
 
-    Launch of our token Khephren
+    Launch of our official smart contract token (Khephren Token 'KPRN')
 *   **July 28, 2022**
 
     Launchpad release
@@ -27,7 +27,8 @@ Khephren token, we base in our roadmap development.
 *   **September 5, 2022**
 
     Mobile app release
-*   **Months of October, November, December**
+*   **Q4**
 
     Release of a new project ( Reviews /verification website, NFT Marketplace, Initial Non-fungible Offering (INO)
-* **More coming**
+* **Q1 2023**\
+  ****More community
