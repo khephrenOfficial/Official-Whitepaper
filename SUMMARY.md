@@ -8,6 +8,7 @@
   * [Khenpren Stake](khephren-use-case/khenpren-stake.md)
 * [Ecosystem](ecosystem.md)
 * [Service Fees](service-fees.md)
+* [Roadmap / Timeline](roadmap-timeline.md)
 
 ## Important
 
