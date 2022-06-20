@@ -10,4 +10,4 @@ Khephren believe that adopting web3 blockchain is the best decision and this is 
 
 **Why Khephren?**
 
-Multiple project with one native token to be use into ecosystem, The first  launchpad paying  BNB revenue when you stake KPRN token.
+Multiple project with one native token to be use into ecosystem, we are the  first  launchpad paying  BNB revenue & have a discounted service fees when you stake KPRN token.
