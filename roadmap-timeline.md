@@ -1,6 +1,6 @@
 # Roadmap / Timeline
 
-Khephren token, we base in our roadmap development.
+**khepren timeline of development.**
 
 *   **July 01, 2022**
 
