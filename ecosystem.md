@@ -8,12 +8,11 @@ We are looking for stable long term economy for all our projects. We believe tha
 
 
 
-1. Khephren staking - Project token & NFT's
+1. Khephren staking
 2. Launchpad - self-served creating launchpad
 3. Mobile application
 4. reviews / verification website
-
-
-
-
+5. NFT Marketplace (coming soon)
+6. Initial Non-fungible Offering (INO) (coming soon)
+7. Yield Farm (coming soon)
 
