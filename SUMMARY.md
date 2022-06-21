@@ -5,7 +5,7 @@
   * [Tokenomics Allocation](tokenomics/tokenomics-allocation.md)
 * [Private / Public sale](private-public-sale.md)
 * [Khephren Use-case](khephren-use-case.md)
-  * [Khenpren stakeholders](khephren-use-case/khenpren-stakeholders.md)
+  * [Khenpren stakeholders](khephren-use-case/khenpren-stake.md)
 * [Ecosystem](ecosystem.md)
 * [Service Fees](service-fees.md)
 * [Roadmap / Timeline](roadmap-timeline.md)
