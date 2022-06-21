@@ -1,20 +1,20 @@
-# Khenpren Stake
+# Khenpren stakeholders
 
 Khephren provide unique and benefitable use case to the community also to the holders.
 
 **KHEPHREN STAKING:** Stake KPRN TOKEN and  earn unique rewards for staking.
 
-For staking your KPRN TOKEN you will earn double rewards which is profit share from the launchpad and staking pool and discounted fees in our service fees.
+→For staking your KPRN TOKEN you will earn double rewards which is profit share from the launchpad and staking pool and discounted fees in our service fees.
 
-All the profit we gain from launchpad and staking platform 50% of it will be rewards for the holders of KPRN TOKEN who will stake their KRPN TOKEN.
+→All the profit we gain from launchpad and staking platform 50% of it will be rewards for the holders of KPRN TOKEN who will stake their KRPN TOKEN.
 
 **How this work?**
 
-Khephren staking has a 3 tier category and each tier category have a minimum/maximum of token to be stake, you can choose from silver, gold and diamond tier, each of tier has percentage how much rewards and discount can be earn. Example below.
+→Khephren staking has a 3 tier category and each tier category have a minimum/maximum of token to be stake, you can choose from silver, gold and diamond tier, each of tier has percentage how much rewards and discount can be earn. Example below.
 
-For example Khephren Launchpad & Staking platform earn 1500 BNB profit for the a month, the 50% or 750 BNB of it will be rewards for those who stake in Khephren plus percentage of discount  in service fees. Explanation each tier below
+→For example Khephren Launchpad & Staking platform earn 1500 BNB profit for the a month, the 50% or 750 BNB of it will be rewards for those who stake in Khephren plus percentage of discount  in service fees. Explanation each tier below
 
-**In silver tier** , have 15% or 112.5 BNB share profit from launchpad & staking, this will split to all people who stake in silver tier.
+→**In silver tier** , have 15% or 112.5 BNB share profit from launchpad & staking, this will split to all people who stake in silver tier.
 
 **`Calculation per KRPN TOKEN stake rate:`**` ``Total token staked(silver tier) divided to 15% profit a month, so if the total profit is 1500 BNB, 50% or 750 of it is the reward. 15% of 750 BNB is the total rewards for silver tier or 112.5 BNB.`
 

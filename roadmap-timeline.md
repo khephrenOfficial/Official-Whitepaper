@@ -11,7 +11,7 @@ Khephren token, we base in our roadmap development.
     Launch of our official smart contract token (Khephren Token 'KPRN')
 *   **July 28, 2022**
 
-    Launchpad release
+    Khephren Launchpad release
 * **August 1-23, 2022**\
   Start of the sales of the token \
   Private sale Phase 1: August 1-5\
@@ -21,7 +21,7 @@ Khephren token, we base in our roadmap development.
 *   **August 24, 2022**
 
     Pancakeswap listing
-*   **August 15, 2022**
+*   **August 25, 2022**
 
     Staking platform release
 *   **September 5, 2022**

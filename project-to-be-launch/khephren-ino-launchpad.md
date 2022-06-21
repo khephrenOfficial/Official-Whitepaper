@@ -1,2 +1,0 @@
-# Khephren INO Launchpad
-
