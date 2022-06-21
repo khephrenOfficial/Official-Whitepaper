@@ -21,7 +21,7 @@ Khephren token, we base in our roadmap development.
 *   **August 24, 2022**
 
     Pancakeswap listing
-*   **August 25, 2022**
+*   **August 30, 2022**
 
     Staking platform release
 *   **September 5, 2022**

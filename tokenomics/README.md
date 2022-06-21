@@ -1,7 +1,5 @@
 ---
 description: Token information will be found on this section
-cover: ../.gitbook/assets/Twitter header.jpg
-coverY: 0
 ---
 
 # Tokenomics
