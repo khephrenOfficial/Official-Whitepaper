@@ -14,7 +14,7 @@ Twitter:[https://twitter.com/KhephrenProject](https://twitter.com/KhephrenProjec
 
 Discord: [https://discord.gg/WtpXHcKMKB](https://discord.gg/WtpXHcKMKB)
 
-Facebook:[https://www.facebook.com/khephrenOfficial](https://www.facebook.com/khephrenOfficial)
+Facebook:[https://www.facebook.com/Khephren-110317671713868](https://www.facebook.com/Khephren-110317671713868)
 
 Medium:[https://medium.com/@khephrenofficial](https://medium.com/@khephrenofficial)
 
