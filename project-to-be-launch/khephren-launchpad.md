@@ -19,8 +19,10 @@ Khephren launchpad is a self-served, you can create your own launchpad sale in a
 **Network:** Mainnet(BSC)\
 ****\
 **Launchpad feature:**\
-****_Create Launchpad sale_\
-_Create Fair-Launch sale_\
-_Create INO sale_\
-_Create Token_\
+**1.**_Multi-Chain Network_\
+**2.**_Create Launchpad sale_\
+_3.Create Fair-Launch sale_\
+_4.Create INO sale_\
+_5.Create Token_\
+__\
 __
