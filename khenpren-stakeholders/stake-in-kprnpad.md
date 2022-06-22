@@ -1,16 +1,14 @@
-# Khenpren stakeholders
+# Stake in KprnPAD
 
-Khephren provide unique and benefitable use case to the community also to the holders.
+## **Stake in Launchpad:** Stake KPRN TOKEN
 
-**KHEPHREN STAKING:** Stake KPRN TOKEN and  earn unique rewards for staking.
+→For staking your KPRN TOKEN you will earn double rewards which is profit/revenue share from different project of Khephren and discounted fees in our service fee.
 
-→For staking your KPRN TOKEN you will earn double rewards which is profit share from the launchpad and staking pool and discounted fees in our service fees.
-
-→All the profit we gain from launchpad and staking platform 50% of it will be rewards for the holders of KPRN TOKEN who will stake their KRPN TOKEN.
+→All the profit we gain from launchpad platform 50% of it will be rewards for the holders of KPRN TOKEN who will stake their KRPN TOKEN.
 
 **How this work?**
 
-→Khephren staking has a 3 tier category and each tier category have a minimum/maximum of token to be stake, you can choose from silver, gold and diamond tier, each of tier has percentage how much rewards and discount can be earn. Example below.
+→When you stake in kprnPAD it has a 3 tier category and each tier category have a minimum/maximum of token to be stake, you can choose from silver, gold and diamond tier, each of tier has percentage how much rewards and discount can be earn. Example below.
 
 →For example Khephren Launchpad & Staking platform earn 1500 BNB profit for a month, the 50% or 750 BNB of it will be rewards for those who stake in Khephren plus percentage of discount  in service fees. Explanation each tier below
 
