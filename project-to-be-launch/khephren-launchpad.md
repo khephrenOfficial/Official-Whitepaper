@@ -5,24 +5,21 @@ Khephren launchpad is a self-served, you can create your own launchpad sale in a
 \
 **Advantage in competitors**
 
-|        Service fees        |    Khephren   | PinkSale |       Dx.app      |
-| :------------------------: | :-----------: | :------: | :---------------: |
-|      Launchpad listing     |   ✅ 0.5 BNB   |   1 BNB  |      0.99 BNB     |
-|        Create Token        |   ✅ 0.1 BNB   |  0.2 BNB | 0.5 BNB / 1.2 BNB |
-|      Total raised bnb      | ✅   1٪        |    2٪    |         2٪        |
-|      Total sold tokens     | ✅    1٪       |    2٪    |         2٪        |
-|         Mobile app         |   ✅   YES     |   NO ❌   |        NO ❌       |
-| Initial NFT Offering (INO) |   ✅   YES     |   NO ❌   |        NO ❌       |
+|    Service fees   |    Khephren   | PinkSale |       Dx.app      |
+| :---------------: | :-----------: | :------: | :---------------: |
+| Launchpad listing |   ✅ 0.5 BNB   |   1 BNB  |      0.99 BNB     |
+|    Create Token   |   ✅ 0.1 BNB   |  0.2 BNB | 0.5 BNB / 1.2 BNB |
+|  Total raised bnb | ✅   1٪        |    2٪    |         2٪        |
+| Total sold tokens | ✅    1٪       |    2٪    |         2٪        |
+|     Mobile app    |   ✅   YES     |   NO ❌   |        NO ❌       |
 
 ****\
 **Estimated launch:** July 28, 2022\
 **Network:** Mainnet(BSC)\
 ****\
 **Launchpad feature:**\
-****_1.Multi-Chain Network_\
-_2.Create Launchpad sale_\
-_3.Create Fair-Launch sale_\
-_4.Create INO sale_\
-_5.Create Token_\
-__\
+****_Create Launchpad sale_\
+_Create Fair-Launch sale_\
+_Create INO sale_\
+_Create Token_\
 __
