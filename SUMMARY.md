@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Tokenomics](tokenomics/README.md)
   * [Tokenomics Allocation](tokenomics/tokenomics-allocation.md)
-* [Khenpren stakeholders](khenpren-stakeholders/README.md)
+* [Khenpren stakeholders](khephren-use-case/khenpren-stake.md)
   * [Stake in KprnPAD](khenpren-stakeholders/stake-in-kprnpad.md)
   * [Stake in KprnSTAKING](khenpren-stakeholders/stake-in-kprnstaking.md)
 * [Private / Public sale](private-public-sale.md)

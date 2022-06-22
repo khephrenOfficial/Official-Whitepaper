@@ -2,7 +2,7 @@
 
 ## **Stake in Launchpad:** Stake KPRN TOKEN
 
-→For staking your KPRN TOKEN you will earn double rewards which is profit/revenue share from different project of Khephren and discounted fees in our service fee.
+→For staking your KPRN TOKEN you will earn double rewards which is profit/revenue share from different project of Khephren you've select and discounted fees in our service fee.
 
 →All the profit we gain from launchpad platform 50% of it will be rewards for the holders of KPRN TOKEN who will stake their KRPN TOKEN.
 
