@@ -26,7 +26,7 @@ Khephren provide unique and benefitable use case to the community also to the ho
 
 | List table                        | Silver tier                                           | Gold tier                                             | Diamond tier                                          |
 | --------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| **Minimum stake / Maximum stake** | 500 KPRN / 3000 KPRN                                  | 3500 KPRN / 7000 KPRN                                 | 8000 KRPN / 15000 KRPN                                |
+| **Minimum stake / Maximum stake** | 500 KPRN / 3000 KPRN                                  | 3500 KPRN / 7000 KPRN                                 | 8000 KRPN / 50000 KRPN                                |
 | **Rewards**                       | 15% Profit share + 20% discount in Khephren ecosystem | 35% profit share + 30% discount in Khephren ecosystem | 50% profit share + 40% discount in Khephren ecosystem |
 | **Duration locked**               | 30days                                                | 30days                                                | 30days                                                |
 
