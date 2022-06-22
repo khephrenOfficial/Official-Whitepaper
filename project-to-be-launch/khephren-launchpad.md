@@ -5,13 +5,14 @@ Khephren launchpad is a self-served, you can create your own launchpad sale in a
 \
 **Advantage in competitors**
 
-|    Service fees   |    Khephren   | PinkSale |       Dx.app      |
-| :---------------: | :-----------: | :------: | :---------------: |
-| Launchpad listing |   ✅ 0.5 BNB   |   1 BNB  |      0.99 BNB     |
-|    Create Token   |   ✅ 0.1 BNB   |  0.2 BNB | 0.5 BNB / 1.2 BNB |
-|  Total raised bnb | ✅   1٪        |    2٪    |         2٪        |
-| Total sold tokens | ✅    1٪       |    2٪    |         2٪        |
-|     Mobile app    |   ✅   YES     |   NO ❌   |        NO ❌       |
+|                Service fees               |    Khephren   | PinkSale |       Dx.app      |
+| :---------------------------------------: | :-----------: | :------: | :---------------: |
+|             Launchpad listing             |   ✅ 0.5 BNB   |   1 BNB  |      0.99 BNB     |
+|                Create Token               |   ✅ 0.1 BNB   |  0.2 BNB | 0.5 BNB / 1.2 BNB |
+|              Total raised bnb             | ✅   1٪        |    2٪    |         2٪        |
+|             Total sold tokens             | ✅    1٪       |    2٪    |         2٪        |
+|                 Mobile app                |   ✅   YES     |   NO ❌   |        NO ❌       |
+| Initial non-fungible-token Offering (INO) |   ✅   YES     |   NO ❌   |        NO ❌       |
 
 ****\
 **Estimated launch:** July 28, 2022\
