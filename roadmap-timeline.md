@@ -1,6 +1,6 @@
 # Roadmap / Timeline
 
-Khephren token, we base in our roadmap development.
+**khepren timeline of development.**
 
 *   **July 01, 2022**
 
@@ -9,7 +9,7 @@ Khephren token, we base in our roadmap development.
 *   **July 8-11, 2022**
 
     Launch of our official smart contract token (Khephren Token 'KPRN')
-*   **July 28, 2022**
+*   **July 20, 2022**
 
     Khephren Launchpad release
 * **August 1-23, 2022**\
@@ -21,10 +21,10 @@ Khephren token, we base in our roadmap development.
 *   **August 24, 2022**
 
     Pancakeswap listing
-*   **August 30, 2022**
+*   **September 5, 2022**
 
     Staking platform release
-*   **September 5, 2022**
+*   **September  12, 2022**
 
     Mobile app release
 *   **Q4**
