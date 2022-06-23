@@ -19,5 +19,5 @@ The token sale has 2 category and 2 phase each category has different price and 
 | **Phase 1 price**    | $0.002                 | **$**0.013             |
 | **Phase 2  price**   | $0.007                 | **$**0.016             |
 | **unlock / vesting** | 30% unlock 70% vesting | 50% unlock 50% vesting |
-| Min / Max Buy        | $50 / $5000            | $100 / $5000           |
+| Min / Max Buy        | $50 / NO LIMIT         | $100 / $5000           |
 | **Vesting Period**   | 4 months               | 4 months               |
