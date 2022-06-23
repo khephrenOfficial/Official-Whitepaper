@@ -13,9 +13,9 @@ We are looking for stable long term economy for all our projects. We believe tha
 
 
 
-1. KRPN STAKING
-2. Khephren staking - Project token & NFT's
-3. Launchpad - self-served creating launchpad
+1. Khephren Stakeholder
+2. kprnPAD - self-served creating launchpad
+3. kprnSTAKING -  Project token & NFT's&#x20;
 4. Mobile application
 5. reviews / verification website
 
