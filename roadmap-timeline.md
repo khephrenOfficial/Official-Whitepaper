@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Twitter header.jpg
+coverY: 0
+---
+
 # Roadmap / Timeline
 
 **khepren timeline of development.**

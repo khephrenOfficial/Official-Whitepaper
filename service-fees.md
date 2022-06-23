@@ -2,6 +2,8 @@
 description: >-
   In this section, all the fees are listed base on the blockchain supported by
   Khephren Launchpad & Staking platform
+cover: .gitbook/assets/Twitter header.jpg
+coverY: 0
 ---
 
 # Service Fees

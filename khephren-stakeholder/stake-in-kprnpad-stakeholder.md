@@ -1,4 +1,9 @@
-# Stake in KprnPAD
+---
+cover: ../.gitbook/assets/Twitter header.jpg
+coverY: 0
+---
+
+# Stake in KprnPAD (stakeholder)
 
 ## **Stake in Launchpad:** Stake KPRN TOKEN
 
@@ -10,7 +15,7 @@
 
 <img alt="" class="gitbook-drawing">
 
-→When you stake in kprnPAD it has a 3 tier category and each tier category have a minimum/maximum of token to be stake, you can choose from silver, gold and diamond tier, each of tier has percentage how much rewards and discount can be earn. Example below.
+→When you stake in kprnPAD it has a 3 tier category and each category tier  have a minimum/maximum of token to be stake, you can choose from silver, gold and diamond tier, each of tier has percentage how much rewards and discount can be earn. Example below.
 
 **→For example** Khephren Launchpad platform earn 1500 BNB profit for a month, the 50% or 750 BNB of it will be rewards for those who stake in Khephren plus up to 50% of discount  in service fees. _**Explanation each tier below**_
 
@@ -23,6 +28,7 @@
 `112.5 BNB / 40,000 KPRN = 0.0028 BNB per 1 KPRN token stake, if you have 500 KPRN x 0.0028 BNB = 1.4 BNB total rewards you will get + 20% discount in Khephren ecosystem.`\
 ``\
 ``**`Example for staking:`**\
+**``**`Selected tier: Silver`\
 `Stake: 500 KPRN`\
 `Reward: 0.0028 BNB (base on revenue/profit example)`\
 `Total Reward: 1.4 BNB`
@@ -35,7 +41,7 @@
 
 | List table                        | Silver tier                                           | Gold tier                                             | Diamond tier                                          |
 | --------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| **Minimum stake / Maximum stake** | 500 KPRN / 3000 KPRN                                  | 3500 KPRN / 7000 KPRN                                 | 8000 KRPN / 50000 KRPN                                |
+| **Minimum stake / Maximum stake** | 500 KPRN / no limit KPRN                              | 3500 KPRN / 7000 KPRN                                 | 8000 KRPN / 50000 KRPN                                |
 | **Rewards**                       | 15% Profit share + 20% discount in Khephren ecosystem | 35% profit share + 30% discount in Khephren ecosystem | 50% profit share + 40% discount in Khephren ecosystem |
 | **Duration locked**               | 30days                                                | 30days                                                | 30days                                                |
 

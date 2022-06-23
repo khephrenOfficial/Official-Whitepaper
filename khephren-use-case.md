@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Twitter header.jpg
+coverY: 0
+---
+
 # Khephren Use-case
 
 1. Stake KPRN token \

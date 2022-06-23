@@ -1,2 +1,0 @@
-# Stake in KprnSTAKING
-

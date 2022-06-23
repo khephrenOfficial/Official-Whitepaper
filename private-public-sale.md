@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Twitter header.jpg
+coverY: 0
+---
+
 # Private / Public sale
 
 The token sale has 2 category and 2 phase each category has different price and supply for token sale. You can see below the token sale information.

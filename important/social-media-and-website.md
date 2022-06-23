@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Twitter header.jpg
+coverY: 0
+---
+
 # Social media & website
 
 Website: [https://khephren.io](https://khephren.io/)

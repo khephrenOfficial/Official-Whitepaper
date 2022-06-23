@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Twitter header.jpg
+coverY: 0
+---
+
 # Ecosystem
 
 In this section all the project of Khephren and to be launch. Khephren has only one token to be use as utilities to the ecosystem and it is the KPRN TOKEN.&#x20;
