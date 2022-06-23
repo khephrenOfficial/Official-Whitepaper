@@ -6,6 +6,7 @@
 * [Khephren Stakeholder](khephren-stakeholder/README.md)
   * [Stake in KprnPAD (stakeholder)](khephren-stakeholder/stake-in-kprnpad-stakeholder.md)
   * [Stake in KprnSTAKING (stakeholder)](khephren-stakeholder/stake-in-kprnstaking-stakeholder.md)
+  * [Project soon to launch (stakeholder)](khephren-stakeholder/project-soon-to-launch-stakeholder.md)
 * [Private / Public sale](private-public-sale.md)
 * [Khephren Use-case](khephren-use-case.md)
 * [Ecosystem](ecosystem.md)
