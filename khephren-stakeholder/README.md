@@ -3,15 +3,11 @@ cover: ../.gitbook/assets/Twitter header.jpg
 coverY: 0
 ---
 
-# Khenpren stakeholders
+# Khephren Stakeholder
 
-## Join to Khephren and become our stakeholder
+## <mark style="color:orange;">Join to Khephren and become our stakeholder</mark>
 
-Khephren launch stakeholder feature to benefits all the holder want to stake their KRPN token to earn double rewards from revenue + discounted service fees up to 50%.
-
-
-
-
+Khephren launch stakeholder feature to benefits all the holder want to stake their KRPN token to earn double rewards from revenue/profit selected project + discounted service fees up to 50%.
 
 ### How I become Stakeholder of Khephren project?
 
