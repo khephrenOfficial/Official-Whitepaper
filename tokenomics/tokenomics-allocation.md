@@ -1,6 +1,6 @@
 # Tokenomics Allocation
 
-1.  **Token Sale Allocation:** Token Sale Allocation: Token allocation for sale is 24% of total supply or 60,000,000 KPRN and this are divided into 2 category and 2 phase round.&#x20;
+1.  **Token Sale Allocation:** Token allocation for sale is 24% of total supply or 60,000,000 KPRN, and this is divided into 2 categories and 2 phase rounds.
 
     ```
     Private Sale Phase 1: 10,000,000 KPRN
@@ -8,13 +8,13 @@
     Public Sale Phase 1: 20,000,000 KPRN
     Public Sale Phase 2: 20,000,000 KPRN
     ```
-2. **Liquidity Pool Allocation:** Total of 50,000,000 KPRN or 20% of total supply will be add as liquidity in pancakeswap to support the trading in ecosystem on Khephren token.
-3. **Marketing Allocation:** 22,500,000 KPRN Token or 9% of total supply, the allocation for marketing will be use to market the whole ecosystem of Khephren.
-4. **Advisor Allocation:** 7,500,000 KPRN or 3% of total supply, The team of khephren has own advisor to support of it we provide allocation as part of the project success.
-5. **Ecosystem:**  25,000,000 KPRN or 10% of total supply, This will be use for development in the ecosystem for all the project features we're going to release Launchpad, Staking platform, mobile application of Launchpad, reviews / verification website and future project to be release NFT marketplace and DeFi projects.
-6. **Rewards & Airdrop:** 22,500,000 KPRN or 9% of total supply, allocation for all events we will launch, giveaway, airdrop, mini-games and community contest.
-7. **Exchange Fee listing:** 12,500,000 KPRN or 5% of the total supply, the allocation for this supply will be use for exchange listing who required additional payment for listing, since we are not only targeting the dex exchange but also the centralized exchange too.
-8. **Developers Allocation:** 50,000,000 KPRN or 20% of total supply, the allocation for developers will be use for upcoming needs for the ecosystem and continues development for the project this can be project reserve token for future plan of the upcoming project features we will release soon.
+2. **Liquidity Pool Allocation:** A total of 50,000,000 KPRN, or 20% of total supply, will be added as liquidity in pancakeswap to support the trading in the ecosystem on the Khephren token.
+3. **Marketing Allocation:** 22,500,000 KPRN, or 9% token allocation. The marketing budget will be used to promote the entire Khephren ecosystem.
+4. **Advisor Allocation:** 7,500,000 KPRN, or 3 percent of the overall supply, is provided as part of the project's success to the Khephren team's advisor.
+5. **Ecosystem:**  25,000,000 KPRN, or 10% of the entire supply, will be used for ecosystem development for all the project features we'll be releasing, including Launchpad, Staking platform, Launchpad mobile application, reviews/verification website, and future projects like NFT marketplace and DeFi projects.
+6. **Rewards & Airdrop:** 22,500,000 KPRN, or 9% of the entire supply, will be allocated for all upcoming events, including giveaways, airdrops, mini-games, and community competitions.
+7. **Exchange Fee listing:** Since we are not only targeting the dex exchange but also the centralized exchange, the allotment for this supply, 12,500,000 KPRN, or 5% of the overall supply, will be used for exchange listing, which requires additional payment for listing.
+8. **Developers Allocation:** The developers' allocation of 50,000,000 KPRN, or 20% of the entire supply, will be used for impending ecosystem demands and ongoing project development. This can be a project reserve token for future planning of the next project features we will shortly provide.
 
 
 
