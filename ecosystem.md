@@ -5,9 +5,9 @@ coverY: 0
 
 # Ecosystem
 
-In this section all the project of Khephren and to be launch. Khephren has only one token to be use as utilities to the ecosystem and it is the KPRN TOKEN.&#x20;
+All of Khephren's projects will be introduced in this area. Only the KPRN TOKEN is available from Khephren for use as an ecosystem utility.
 
-We are looking for stable long term economy for all our projects. We believe that’s the only way to be trustable for our investors and to show that our goal is legit. We won’t do moves or promises for short term benefit that will damage badly our project in medium and long term.
+For all of our projects, we want a solid long-term economy. We think that's the only way to earn our investors' trust and demonstrate that our objective is real. We won't make decisions or make commitments for short-term gain that will seriously harm our project in the medium and long term.
 
 
 

@@ -7,7 +7,7 @@ coverY: 0
 
 ## <mark style="color:orange;">Join to Khephren and become our stakeholder</mark>
 
-Khephren launch stakeholder feature to benefits all the holder want to stake their KRPN token to earn double rewards from revenue/profit selected project + discounted service fees up to 50%.
+All KRPN token holders will benefit from Khephren's debut of the stakeholder feature, which allows them to stake their tokens in order to earn double rewards from income and profits from chosen projects as well as up to a 50% reduction on service fees.
 
 ### How I become Stakeholder of Khephren project?
 

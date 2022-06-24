@@ -5,14 +5,14 @@ coverY: 0
 
 # Introduction
 
-**Khephren** is the new innovative decentralized platform building & launching a self-served launchpad, staking pool, mobile application for launchpad, and reviews/verification website. Multi-chain supported with various projects to be launched in the coming months.
+**Khephren** is the new innovative decentralized platform developing and launching a self-served launchpad, staking pool, mobile application for the launchpad, and reviews/verification website. With numerous projects set to launch in the next months, multi-chain support.
 
-**Khephren** has 50 teams people already in the IT industry since 2014 and continues to grow, each of it has specializations already from Website development, mobile application, game development, and blockchain web3 development
+As with the web2 era, Khephren feels that embracing web3 blockchain is the best course of action and that this is the future. We still have time to create incredible and beneficial Dapps (web3 applications) for everyone, as blockchain is still in its early stages of development.
 
-**Khephren** believe that adopting web3 blockchain is the best decision and this is the future like the  web2 before no one believes in INTERNET can be trend worldwide and useful to everyone, we are not late to make amazing and helpful Dapps (web3 application) for everyone, blockchain still in the early stage of growing.
+There are already 50 team members in Khephren. Each of them has been working in the IT business since 2014 and has continued to advance. They are all experts in developing websites, mobile applications, games, and blockchain web 3.
 
 
 
 **Why Khephren?**
 
-Multiple projects with one native token to be used in the ecosystem, we are the first launchpad paying BNB revenue & have discounted service fees when you stake KPRN token. Khephren is the most cheaper service fee launchpad.
+We are the first launchpad to pay BNB revenue and offer discounted service costs when you stake KPRN token. Multiple projects with a single native token to be used in the ecosystem. The launchpad with the lowest service fee is Khephren.

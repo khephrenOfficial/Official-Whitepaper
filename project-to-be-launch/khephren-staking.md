@@ -1,6 +1,6 @@
 # Khephren Staking
 
-**Khephren** _build a unique token & NFT's self-served staking platform, we got an idea from launchpad where you can create your own launchpad in few clicks, here in staking platform you can do that as well, in a few clicks you can create your own customized staking and you can choose from your project tokens or your NFT's. This will boost your community growth because of the exposure from our community that willing to stake with your token or NFT's._
+Khephren Staking platform: what is it? Khephren developed a special token and NFT self-served staking platform. We got the idea from Launchpad, where you can create your own launchpad in a few clicks; similarly, here in the staking platform, you can do that as well. You can create your own customized staking in a few clicks and you can select from your project tokens or your NFTs. The exposure from our community's willingness to stake with your token or NFTs will help your community flourish as a result of this.
 
 
 
