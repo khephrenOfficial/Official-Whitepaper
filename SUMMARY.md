@@ -21,8 +21,8 @@
 
 ## Project to be Launch
 
-* [Khephren Launchpad](project-to-be-launch/khephren-launchpad.md)
-* [Khephren Staking](project-to-be-launch/khephren-staking.md)
+* [kprnPAD](project-to-be-launch/kprnpad.md)
+* [kprnSTAKING](project-to-be-launch/kprnstaking.md)
 * [Mobile application (For Launchpad)](project-to-be-launch/mobile-application-for-launchpad.md)
 * [Review / verification website](project-to-be-launch/review-verification-website.md)
 

@@ -9,7 +9,7 @@ coverY: 0
 
 →For staking your KPRN TOKEN you will earn double rewards which is profit/revenue share from different project of Khephren you've select and discounted fees in our service fee.
 
-→All the profit we gain from krpnSTAKING platform 50% of it will be rewards for the holders of KPRN TOKEN who will stake their KRPN TOKEN.
+→All the profit we gain from krpnSTAKING platform 50% of it will be rewards for the stakeholders.
 
 **How this work?**
 
@@ -17,9 +17,9 @@ coverY: 0
 
 **→For example** krpnSTAKING platform earn 1500 BNB profit for a month, the 50% or 750 BNB of it will be rewards for those who stake in Khephren plus up to 50% of discount  in service fees. _**Explanation each tier below**_
 
-→**In silver tier** , have 15% or 112.5 BNB share profit from krpnSTAKING, this will split to all stakeholder who stake in silver tier.
+→**In silver tier**, have 15% or 112.5 BNB share profit from krpnSTAKING, this will split to all stakeholder who stake in silver tier.
 
-**`Calculation per KRPN TOKEN stake rate:`**` ``Total token staked(silver tier) divided to 15% profit a month, so if the total profit is 1500 BNB, 50% or 750 of it is the reward. 15% of 750 BNB is the total rewards for silver tier or 112.5 BNB.`
+**`Calculation per KPRN TOKEN stake rate:`**` ``Total token staked(silver tier) divided to 15% profit a month, so if the total profit is 1500 BNB, 50% or 750 of it is the reward. 15% of 750 BNB is the total rewards for silver tier or 112.5 BNB.`
 
 `If total token stake is 40,000 KPRN token in silver tier this will be divided to 112.5 BNB`
 
