@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/bg-team.jpg
+coverY: 112.91629955947137
+---
+
 # Khephren Team introduction
 
 Lead by business veterans with at least 20 years of experience. We think that many strong abilities in the economy, business, and technology are linked to the success of crypto projects.
