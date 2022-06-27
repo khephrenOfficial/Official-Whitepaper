@@ -5,7 +5,7 @@ coverY: 0
 
 # Private / Public sale
 
-The token sale has two categories and two phases. Each category has a different price and supply for the token sale. You can see below the token sale information..
+The token sale is divided into two categories and two phases. For the token sale, each category has a different price and supply. The token sale information is listed below.
 
 **Total token allocation:** 60,000,000 $KPRN Token.
 
