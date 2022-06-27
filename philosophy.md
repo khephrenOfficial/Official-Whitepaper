@@ -6,3 +6,4 @@ It produces a variety of initiatives, and there are no limitations as long as we
 \
 Khephren&#x20;
 
+The brand-new decentralized platform Khephren is developing and launching a self-served launchpad, staking pool, mobile launchpad application, and reviews/verification website. With a number of projects scheduled to launch in the upcoming months, To be widely used in the blockchain realm, every DAPP developed by Khephren will support multiple chain networks.
