@@ -13,6 +13,6 @@ There are already 50 team members in Khephren. Each of them has been working in 
 
 
 
-**Khephren Advantage**\
+**Khephren Advantages**\
 ****We are the first project to pay BNB revenue and offer discounted service fees when you stake your KPRN token. Multiple projects with a single native token to be used in the ecosystem. The launchpad with the lowest service fee is Khephren.
 
