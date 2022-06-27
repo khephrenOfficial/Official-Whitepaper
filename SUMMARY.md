@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Philosophy](philosophy.md)
+* [Khephren Team introduction](khephren-team-introduction.md)
 * [Tokenomics](tokenomics/README.md)
   * [Tokenomics Allocation](tokenomics/tokenomics-allocation.md)
 * [Khephren Stakeholder](khephren-stakeholder/README.md)
