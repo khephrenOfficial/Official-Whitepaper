@@ -19,7 +19,7 @@ The token sale has two categories and two phases. Each category has a different 
 
 **Duration per phase:** 5days
 
-**Listing price: $**0.018
+**Listing price: $**0.017
 
 
 
