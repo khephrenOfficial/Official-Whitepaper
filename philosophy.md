@@ -1,3 +1,9 @@
+---
+cover: .gitbook/assets/Twitter header.jpg
+coverY: 0
+layout: landing
+---
+
 # Philosophy
 
 Our goal is to establish a reliable web3 entity that is acknowledged by everyone for the seriousness that we have.
