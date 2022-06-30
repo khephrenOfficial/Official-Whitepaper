@@ -5,35 +5,35 @@ coverY: 0
 
 # Roadmap / Timeline
 
-**khepren timeline of development.**
+## **khepren timeline of development.**
 
-*   **July 01, 2022**
+*   **July 8, 2022**
 
     Launch of our main website\
     Twitter giveaway, Gleam Giveaway
-*   **July 8-11, 2022**
+*   **July 11, 2022**
 
     Launch of our official smart contract token (Khephren Token 'KPRN')
-*   **July 28, 2022**
+*   **August 10, 2022**
 
-    Khephren Launchpad release
-* **August 1-23, 2022**\
+    kprnPAD Launchpad release
+* **August 15-23 2022**\
   Start of the sales of the token \
-  Private sale Phase 1: August 1-5\
-  Private sale Phase 2: August 6-10\
-  Public sale Phase 1: August 12-17\
-  Public sale Phase 2: August 18-23
-*   **August 24, 2022**
+  Private sale Phase 1: August 15-19\
+  Private sale Phase 2: August 22-26\
+  Public sale Phase 1: August 29 - September 2\
+  Public sale Phase 2: sept 5 - 9
+*   **September  10, 2022**
 
     Pancakeswap listing
-*   **September 5, 2022**
+*   **September 30, 2022**
 
-    Staking platform release
-*   **September  12, 2022**
+    kprnSTAKING platform release
+*   **October 3, 2022**
 
     Mobile app release
-*   **Q4**
+*   &#x20;**Q4**
 
-    Release of a new project ( Reviews /verification website, NFT Marketplace, Initial Non-fungible Offering (INO)
+    Release of a new project ( Reviews /verification website and new project coming soon.)
 * **Q1 2023**\
   ****More community
