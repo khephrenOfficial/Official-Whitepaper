@@ -5,7 +5,7 @@ coverY: 0
 
 # Roadmap / Timeline
 
-## **khepren timeline of development.**
+## K**hepren Timeline Of Development.**
 
 *   **July 8, 2022**
 
