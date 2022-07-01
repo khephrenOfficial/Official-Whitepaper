@@ -6,16 +6,16 @@ Khephren Staking platform: what is it? Khephren developed a special token and NF
 | ------------------- | --------------------------------- | --------------------------------------- |
 | **Listing Fee**     |  ✅0.5 BNB                         |  ✅0.5 BNB                               |
 | **Token/NFT  fees** |  ✅ZERO                            |  ✅ZERO                                  |
-| Reward Rate         |  ✅ customized by owner (APY RATE) |  ✅ customized by owner (owner set rate) |
+| **Reward Rate**     |  ✅ customized by owner (APY RATE) |  ✅ customized by owner (owner set rate) |
 
 kprnSTAKING FEATURES:
 
 1. **Token staking** - The creators of the project allow users to easily build their own token staking pools using the kprnSTAKING process.
 2. **NFT staking** - The difference between NFT staking and token staking is that NFT staking uses NFTs. The creators of the project allow users to build their own NFT staking platforms inside of krpnSTAKING.
 
-NFT rewards rate will be base on owner of token/nft
+NFT rewards rate will be base on owner set of token/nft
 
-**Example rewards rate set by project owner:**
+**Example rewards rate set by project owner:** 15 tokens/day
 
 _Staked 1 NFT earn 15 tokens/day_
 
