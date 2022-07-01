@@ -17,7 +17,7 @@ coverY: 0
 *   **August 10, 2022**
 
     kprnPAD Launchpad release
-* **August 15-23 2022**\
+* **August 15 to September 9**\
   Start of the sales of the token \
   Private sale Phase 1: August 15-19\
   Private sale Phase 2: August 22-26\
