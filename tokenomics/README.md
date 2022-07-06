@@ -42,4 +42,4 @@ coverY: 0
 
 **Marketing:** 9%
 
-**Developers allocation:** 20%
+**Developers allocation:** 20%\
