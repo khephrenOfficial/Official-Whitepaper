@@ -29,7 +29,7 @@ coverY: 0
 **TOKEN ALLOCATION by percentage:**\
 
 
-![Khephren Charts](../.gitbook/assets/chart.svg)
+![](<../.gitbook/assets/chart (1).svg>)
 
 **Token sales (Private & public):** 24%
 
