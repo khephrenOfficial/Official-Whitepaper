@@ -26,7 +26,10 @@ coverY: 0
 
 ****
 
-**TOKEN ALLOCATION by percentage:**
+**TOKEN ALLOCATION by percentage:**\
+
+
+![Khephren Charts](../.gitbook/assets/chart.svg)
 
 **Token sales (Private & public):** 24%
 
@@ -42,4 +45,4 @@ coverY: 0
 
 **Marketing:** 9%
 
-**Developers allocation:** 20%\
+**Developers allocation:** 20%
