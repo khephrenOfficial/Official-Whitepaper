@@ -11,7 +11,7 @@ All KRPN token holders will benefit from Khephren's debut of the stakeholder fea
 
 | List table                        | Silver tier                                           | Gold tier                                             | Diamond tier                                          |
 | --------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| **Minimum stake / Maximum stake** | 500 KPRN / 3400                                       | 3,500 KPRN / 50,000                                   | 8,000 KRPN / No maximum                               |
+| **Minimum stake / Maximum stake** | 100 KPRN / 3400                                       | 3,500 KPRN / 50,000                                   | 8,000 KRPN / No maximum                               |
 | **Rewards**                       | 15% Profit share + 20% discount in Khephren ecosystem | 35% profit share + 30% discount in Khephren ecosystem | 50% profit share + 40% discount in Khephren ecosystem |
 | **Duration locked**               | 30days or more                                        | 30days or more                                        | 30days or more                                        |
 

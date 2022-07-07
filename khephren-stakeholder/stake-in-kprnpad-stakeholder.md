@@ -39,7 +39,7 @@ If the total token stake is 40,000 KPRN tokens in the silver tier, this will be 
 
 | List table                        | Silver tier                                           | Gold tier                                             | Diamond tier                                          |
 | --------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| **Minimum stake / Maximum stake** | 500 KPRN / 3400 KPRN                                  | 3,500 KPRN / 50,000 KPRN                              | 8,000 KRPN / No maximum                               |
+| **Minimum stake / Maximum stake** | 100 KPRN / 3400 KPRN                                  | 3,500 KPRN / 50,000 KPRN                              | 8,000 KRPN / No maximum                               |
 | **Rewards**                       | 15% Profit share + 20% discount in Khephren ecosystem | 35% profit share + 30% discount in Khephren ecosystem | 50% profit share + 40% discount in Khephren ecosystem |
 | **Duration locked**               | 30days or more                                        | 30days or more                                        | 30days or more                                        |
 
