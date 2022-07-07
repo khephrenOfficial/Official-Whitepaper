@@ -17,7 +17,7 @@ For all of our projects, we want a solid long-term economy. We think that's the 
 2. kprnPAD - self-served creating launchpad
 3. kprnSTAKING -  Project token & NFT's&#x20;
 4. Mobile application
-5. reviews / verification website
+5. CryptoReviews
 
 
 

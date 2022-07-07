@@ -18,9 +18,9 @@ coverY: 0
 * **August 22, 2022**\
   Private sale Phase 1: August 22 - 30
 * **September 1, 2022**\
-  Private Sale Phase 2: September 1-9
+  Private Sale Phase 2: Sept 1 - 9
 * **September 12, 2022**\
-  ****Public Sale Phase 1: September 12 - 22
+  ****Public Sale Phase 1: Sept 12 - 22
 * **September 24, 2022**\
   ****Public Sale Phase 2: Sept 24 - Oct 3
 *   **October  5, 2022**
@@ -34,6 +34,6 @@ coverY: 0
     Mobile app release
 *   &#x20;**Q4**
 
-    Release of a new project ( CryptoReviews and future launch )
+    Release of a new project ( CryptoReviews and future project to launch )
 * **Q1 2023**\
   ****More community
