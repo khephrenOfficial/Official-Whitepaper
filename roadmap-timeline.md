@@ -34,6 +34,6 @@ coverY: 0
     Mobile app release
 *   &#x20;**Q4**
 
-    Release of a new project ( Reviews /verification website and new project coming soon.)
+    Release of a new project ( CryptoReviews and future launch )
 * **Q1 2023**\
   ****More community

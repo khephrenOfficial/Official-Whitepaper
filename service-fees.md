@@ -8,12 +8,14 @@ coverY: 0
 
 # Service Fees
 
+**The most cheaper Launchpad service fees.**
+
 **1. Binance Smart Chain**
 
-* Token Staking Pool Fees: 0.5 BNB until end of staking.
-* NFT Staking Pool Fees: 0.5 BNB until end of staking.
-
-****
+* Token Builder Fees: 0.1 BNB
+* Creating launchpad Fees: 0.5 BNB + 1% total raised BNB, 1% total token sold
+* Creating Fair-Launch Fees: 0.5 BNB + 1% total raised BNB, 1% total token sold
+* **Staking Platform** Listing Fees: 0.5 BNB
 
 
 
@@ -21,7 +23,7 @@ More blockchain network will be added soon: **POLYGON NETWORK, ETH NETWORK, CRON
 
 ****
 
-_Disclaimer: Prices and service fees are subject to change by Khephren._
+_Disclaimer: Price can be change and khephren have a right to change the service fee._
 
 __
 
