@@ -7,29 +7,29 @@ coverY: 0
 
 ## K**hepren Timeline Of Development.**
 
-*   **July 8, 2022**
-
-    Launch of our main website\
-    Twitter giveaway, Gleam Giveaway
-*   **July 11, 2022**
+* **July 18, 2022**\
+  Website Launch
+*   **July 28, 2022**
 
     Launch of our official smart contract token (Khephren Token 'KPRN')
-*   **August 10, 2022**
+*   **August 15, 2022**
 
     kprnPAD Launchpad release
-* **August 15 to September 9**\
-  Start of the sales of the token \
-  Private sale Phase 1: August 15-19\
-  Private sale Phase 2: August 22-26\
-  Public sale Phase 1: August 29 - September 2\
-  Public sale Phase 2: sept 5 - 9
-*   **September  10, 2022**
+* **August 22, 2022**\
+  Private salev Phase 1: August 22 - 30
+* **September 1, 2022**\
+  Private Sale Phase 2: September 1-9
+* **September 12, 2022**\
+  ****Public Sale Phase 1: September 12 - 22
+* **September 24, 2022**\
+  ****Public Sale Phase 2: Sept 24 - Oct 3
+*   **October  5, 2022**
 
     Pancakeswap listing
-*   **September 30, 2022**
+*   **October 20, 2022**
 
     kprnSTAKING platform release
-*   **October 3, 2022**
+*   **October 30, 2022**
 
     Mobile app release
 *   &#x20;**Q4**
