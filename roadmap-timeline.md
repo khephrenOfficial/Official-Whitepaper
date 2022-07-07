@@ -16,7 +16,7 @@ coverY: 0
 
     kprnPAD Launchpad release
 * **August 22, 2022**\
-  Private salev Phase 1: August 22 - 30
+  Private sale Phase 1: August 22 - 30
 * **September 1, 2022**\
   Private Sale Phase 2: September 1-9
 * **September 12, 2022**\

@@ -24,26 +24,26 @@
 
 * [kprnPAD](project-to-be-launch/kprnpad.md)
 * [kprnSTAKING](project-to-be-launch/kprnstaking.md)
-* [CryptoReviews](project-to-be-launch/cryptoreviews.md)
-* [Mobile App (ios & android)](project-to-be-launch/mobile-app-ios-and-android.md)
+* [CryptoReviews](project-to-be-launch/review-verification-website.md)
+* [Mobile App (ios & android)](project-to-be-launch/mobile-application-for-launchpad.md)
 
 ## KprnPAD
 
-* [Service Fess](kprnpad/service-fess.md)
-* [Launchpad List](kprnpad/launchpad-list.md)
-* [Launchpad creation](kprnpad/launchpad-creation.md)
-* [Launchpad update](kprnpad/launchpad-update.md)
-* [Launchpad finalize](kprnpad/launchpad-finalize.md)
+* [Service Fess](khephren-launchpad/service-fess.md)
+* [Launchpad List](khephren-launchpad/launchpad-list.md)
+* [Launchpad creation](khephren-launchpad/launchpad-creation.md)
+* [Launchpad update](khephren-launchpad/launchpad-update.md)
+* [Launchpad finalize](khephren-launchpad/launchpad-finalize.md)
 
 ## kprnpad
 
-* [Service Fees](kprnpad-1/service-fees.md)
-* [How to stake](kprnpad-1/how-to-stake.md)
-* [How to list your token](kprnpad-1/how-to-list-your-token.md)
+* [Service Fees](service-fees.md)
+* [How to stake](khephren-staking/how-to-stake.md)
+* [How to list your token](khephren-staking/how-to-list-your-token.md)
 
 ## CryptoReviews
 
-* [What is CryptoReviews?](cryptoreviews/what-is-cryptoreviews.md)
+* [What is CryptoReviews?](kheprhen-cryptoreviews/what-is-cryptoreviews.md)
 
 ## Khephren Mobile App
 
