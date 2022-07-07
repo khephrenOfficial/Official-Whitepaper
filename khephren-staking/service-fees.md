@@ -2,7 +2,7 @@
 description: >-
   In this section, all the fees are listed base on the blockchain supported by
   Khephren Launchpad & Staking platform
-cover: .gitbook/assets/Twitter header.jpg
+cover: ../.gitbook/assets/Twitter header.jpg
 coverY: 0
 ---
 
@@ -12,10 +12,10 @@ coverY: 0
 
 **1. Binance Smart Chain**
 
-* Token Builder Fees: 0.1 BNB
-* Creating launchpad Fees: 0.5 BNB + 1% total raised BNB, 1% total token sold
-* Creating Fair-Launch Fees: 0.5 BNB + 1% total raised BNB, 1% total token sold
-* **Staking Platform** Listing Fees: 0.5 BNB
+* Token Staking Pool Fees: 0.5 BNB until end of staking.
+* NFT Staking Pool Fees: 0.5 BNB until end of staking.
+
+****
 
 
 

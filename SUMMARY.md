@@ -12,7 +12,6 @@
 * [Private / Public sale](private-public-sale.md)
 * [Khephren Use-case](khephren-use-case.md)
 * [Ecosystem](ecosystem.md)
-* [Service Fees](service-fees.md)
 * [Roadmap / Timeline](roadmap-timeline.md)
 
 ## Important
@@ -37,6 +36,7 @@
 
 ## KHEPHREN STAKING
 
+* [Service Fees](khephren-staking/service-fees.md)
 * [How to stake](khephren-staking/how-to-stake.md)
 * [How to list your token](khephren-staking/how-to-list-your-token.md)
 
