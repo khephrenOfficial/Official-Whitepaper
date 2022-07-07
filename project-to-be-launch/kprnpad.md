@@ -3,9 +3,9 @@ cover: ../.gitbook/assets/project-cover.jpg
 coverY: 0
 ---
 
-# Khephren Launchpad
+# kprnPAD
 
-Khephren launchpad is a self-served, you can create your own launchpad sale in a few clicks inside the platform, this will help small start up project to raised fund from the community investors, also help the community to take advantage for the opportunity investment. Khephren is the lower service fees in Launchpad category project compare to our competitors start at 1 BNB, Khephren start at 0.5. Khephren  pay BNB rewards to all who stake KPRN TOKEN plus service fees discount. Take advantage and benefits from staking KPRN token.
+KprnPAD is a self-served launchpad pool. With a few clicks on the platform, you can create your own launchpad sale. This will help small start-up projects acquire capital from community investors, and it will also enable the community to capitalize on investment opportunities. Khephren also has the lowest service fees in the Launchpad category compared to our competitors, who begin at 1 BNB.
 
 \
 **Advantage in competitors**

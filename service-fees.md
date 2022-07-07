@@ -2,13 +2,11 @@
 description: >-
   In this section, all the fees are listed base on the blockchain supported by
   Khephren Launchpad & Staking platform
-cover: ../.gitbook/assets/Twitter header.jpg
+cover: .gitbook/assets/Twitter header.jpg
 coverY: 0
 ---
 
 # Service Fees
-
-**The most cheaper Launchpad service fees.**
 
 **1. Binance Smart Chain**
 
@@ -23,7 +21,7 @@ More blockchain network will be added soon: **POLYGON NETWORK, ETH NETWORK, CRON
 
 ****
 
-_Disclaimer: Price can be change and khephren have a right to change the service fee._
+_Disclaimer: Prices and service fees are subject to change by Khephren._
 
 __
 

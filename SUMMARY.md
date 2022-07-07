@@ -29,6 +29,7 @@
 
 ## KHEPHREN LAUNCHPAD
 
+* [Service Fess](khephren-launchpad/service-fess.md)
 * [Launchpad List](khephren-launchpad/launchpad-list.md)
 * [Launchpad creation](khephren-launchpad/launchpad-creation.md)
 * [Launchpad update](khephren-launchpad/launchpad-update.md)
@@ -36,7 +37,7 @@
 
 ## KHEPHREN STAKING
 
-* [Service Fees](khephren-staking/service-fees.md)
+* [Service Fees](service-fees.md)
 * [How to stake](khephren-staking/how-to-stake.md)
 * [How to list your token](khephren-staking/how-to-list-your-token.md)
 
