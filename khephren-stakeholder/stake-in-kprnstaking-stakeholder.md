@@ -39,9 +39,9 @@ coverY: 0
 
 | List table                        | Silver tier                                           | Gold tier                                             | Diamond tier                                          |
 | --------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| **Minimum stake / Maximum stake** | 500 KPRN / no limit KPRN                              | 3500 KPRN / 7000 KPRN                                 | 8000 KRPN / 50000 KRPN                                |
+| **Minimum stake / Maximum stake** | 500 KPRN / 3400 KPRN                                  | 3,500 KPRN / 50,000 KRPN                              | 8,000 KRPN / No maximum                               |
 | **Rewards**                       | 15% Profit share + 20% discount in Khephren ecosystem | 35% profit share + 30% discount in Khephren ecosystem | 50% profit share + 40% discount in Khephren ecosystem |
-| **Duration locked**               | 30days                                                | 30days                                                | 30days                                                |
+| **Duration locked**               | 30days or more                                        | 30days or more                                        | 30days or more                                        |
 
 
 
