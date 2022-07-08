@@ -14,7 +14,7 @@ For all of our projects, we want a solid long-term economy. We think that's the 
 
 
 1. Khephren Stakeholder
-2. kprnPAD - self-served creating launchpad
+2. kprnPAD - Launchpad, Token builder, Initial NFT Offering
 3. kprnSTAKING -  Project token & NFT's&#x20;
 4. Mobile application
 5. CryptoReviews
