@@ -10,8 +10,8 @@ coverY: 0
 
 **1. Binance Smart Chain**
 
-* Token Staking Pool Fees: 0.5 BNB until end of staking.
-* NFT Staking Pool Fees: 0.5 BNB until end of staking.
+* **Token Staking Pool Fees:** 0.5 BNB until end of staking.
+* **NFT Staking Pool Fees:** 0.5 BNB until end of staking.
 
 ****
 
