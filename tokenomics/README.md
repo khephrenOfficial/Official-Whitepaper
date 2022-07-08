@@ -29,7 +29,7 @@ coverY: 0
 **TOKEN ALLOCATION by percentage:**\
 
 
-![Chart](../.gitbook/assets/chart-wp.png)
+![](../.gitbook/assets/chart-wp.png)
 
 **Token sales (Private & public):** 24%
 
