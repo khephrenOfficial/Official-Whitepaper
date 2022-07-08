@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/bg-team (1).png
-coverY: 50.74889867841409
+coverY: -2.537444933920761
 ---
 
 # Khephren Team Introduction
