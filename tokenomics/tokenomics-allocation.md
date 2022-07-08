@@ -14,7 +14,7 @@
 5. **Ecosystem:**  25,000,000 KPRN, or 10% of the entire supply, will be used for ecosystem development for all the project features we'll be releasing, including Launchpad, Staking platform, Launchpad mobile application, reviews/verification website, and future projects like NFT marketplace and DeFi projects.
 6. **Rewards & Airdrop:** 22,500,000 KPRN, or 9% of the entire supply, will be allocated for all upcoming events, including giveaways, airdrops, mini-games, and community competitions.
 7. **Exchange Fee listing:** Since we are not only targeting the dex exchange but also the centralized exchange, the allotment for this supply, 12,500,000 KPRN, or 5% of the overall supply, will be used for exchange listing, which requires additional payment for listing.
-8. **Developers Allocation:** The 50,000,000 KPRN that developers get, which is 20% of the total supply, is a reserve token allocation that we can use as our funding token for future projects we're going to launch since Khephren not only focuses on one Dapp but multiple web3 blockchain projects with one native token to be used as a utility. The Khephren team keeps in mind that our projects are long-term, not short-term.
+8. **Developers Allocation:** The 50,000,000 KPRN, which is 20% of the total supply, is a reserve token allocation that we can use as our funding token for future projects we're going to launch since Khephren not only focuses on one Dapp but multiple web3 blockchain projects with one native token to be used as a utility. The Khephren team keeps in mind that our projects are long-term, not short-term.
 
 
 

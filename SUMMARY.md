@@ -49,3 +49,8 @@
 
 * [Mobile App](khephren-mobile-app/mobile-app.md)
 * [How to use it?](khephren-mobile-app/how-to-use-it.md)
+
+## FAQ
+
+* [Video Guide](faq/video-guide.md)
+* [How to buy KPRN Token?](faq/how-to-buy-kprn-token.md)
