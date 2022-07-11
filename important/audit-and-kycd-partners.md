@@ -1,4 +1,7 @@
 ---
+description: >-
+  In this section, list of audit & KYC firm partners for our krpnPAD and
+  kprnSTAKING platform
 cover: ../.gitbook/assets/Twitter header.jpg
 coverY: 0
 ---

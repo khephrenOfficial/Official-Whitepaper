@@ -21,17 +21,15 @@ coverY: 0
   Private Sale Phase 2: Sept 1 - 9
 * **September 12, 2022**\
   ****Public Sale Phase 1: Sept 12 - 22
+* **September 13, 2020**\
+  ****kprnSTAKING platform release
 * **September 24, 2022**\
   ****Public Sale Phase 2: Sept 24 - Oct 3
+* **September 30, 2022**\
+  Mobile app release
 *   **October  5, 2022**
 
     Pancakeswap listing
-*   **October 20, 2022**
-
-    kprnSTAKING platform release
-*   **October 30, 2022**
-
-    Mobile app release
 *   &#x20;**Q4**
 
     Release of a new project ( CryptoReviews and future project to launch )

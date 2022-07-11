@@ -16,7 +16,6 @@
 
 ## Important
 
-* [Technical Support](important/technical-support.md)
 * [Dex Partners](important/dex-partners.md)
 * [Audit & KYC'd partners](important/audit-and-kycd-partners.md)
 * [Social media & website](important/social-media-and-website.md)
