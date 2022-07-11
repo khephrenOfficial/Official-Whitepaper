@@ -19,4 +19,4 @@ NFT rewards rate will be base on owner set of token/nft
 
 _Staked 1 NFT earn 15 tokens/day_
 
-**Estimated release:**  _September 13, 2022_
+**Estimated release:**  _September 5, 2022_
