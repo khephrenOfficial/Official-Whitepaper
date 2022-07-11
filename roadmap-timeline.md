@@ -27,7 +27,7 @@ coverY: 0
   ****Public Sale Phase 2: Sept 24 - Oct 3
 * **September 30, 2022**\
   Mobile app release
-*   **October  4, 2022**
+*   **October  5, 2022**
 
     Pancakeswap listing
 *   &#x20;**Q4**
