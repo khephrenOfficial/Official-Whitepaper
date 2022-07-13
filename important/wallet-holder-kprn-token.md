@@ -19,7 +19,7 @@ Khephren Team will be always transparent to all investors.
 
 **Advisor:**&#x20;
 
-**Exchange listing fees:**
+**Exchange listing:**
 
 **Rewards pool:**&#x20;
 

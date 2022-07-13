@@ -38,5 +38,5 @@ All KRPN token holders will benefit from Khephren's debut of the stakeholder fea
 1. Revenue share from selected projects.
 2. Power to vote.
 3. Passive income while locked staking.
-4. BNB/Stablecoin rewards.
+4. discounted service fees up to 50%
 
