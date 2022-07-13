@@ -31,17 +31,17 @@
 
 ## KprnPAD
 
-* [Service Fess](khephren-launchpad/service-fess.md)
+* [Service Fees](kprnpad/service-fees.md)
 * [Launchpad List](khephren-launchpad/launchpad-list.md)
 * [Launchpad creation](khephren-launchpad/launchpad-creation.md)
 * [Launchpad update](khephren-launchpad/launchpad-update.md)
 * [Launchpad finalize](khephren-launchpad/launchpad-finalize.md)
 
-## kprnpad
+## kprnstaking
 
-* [Service Fees](service-fees.md)
-* [How to stake](khephren-staking/how-to-stake.md)
-* [How to list your token](khephren-staking/how-to-list-your-token.md)
+* [Service Fees](kprnstaking/service-fees.md)
+* [How to stake](kprnstaking/how-to-stake.md)
+* [How to list your token](kprnstaking/how-to-list-your-token.md)
 
 ## CryptoReviews
 
