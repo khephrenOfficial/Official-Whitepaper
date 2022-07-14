@@ -7,7 +7,7 @@ coverY: 0
 
 ## <mark style="color:orange;">Join to Khephren and become our stakeholder</mark>
 
-All KRPN token holders will benefit from Khephren's debut of the stakeholder feature, which allows them to stake their tokens to earn double rewards from income and profits from selected projects, as well as a 50% reduction in service fees.
+All KRPN token holders will benefit from Khephren's launch of the stakeholder feature, which allows them to stake their tokens to earn double rewards from income and profits from selected projects, as well as a 50% reduction in service fees.
 
 | List table                        | Silver tier                                           | Gold tier                                             | Diamond tier                                          |
 | --------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
