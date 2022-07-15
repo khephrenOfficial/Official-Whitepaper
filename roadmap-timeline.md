@@ -30,8 +30,8 @@ coverY: 0
 *   **October  4, 2022**
 
     Pancakeswap listing
-*   &#x20;**Q4**
+*   &#x20;**Q4 2022**
 
-    Release of a new project ( CryptoReviews and future project to launch )
+    Release of a new project (CryptoReviews and future project to launch)
 * **Q1 2023**\
   ****More community
