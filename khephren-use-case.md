@@ -12,6 +12,6 @@ coverY: 0
 3. **kprnSTAKING** utility token
 4. **CryptoReviews** utility token
 
-One native token (KPRN) for all projects of Khepren\
+One native token (KPRN) for all projects of Khephren\
 
 
