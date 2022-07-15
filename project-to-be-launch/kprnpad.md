@@ -20,7 +20,7 @@ KprnPAD is a self-served launchpad pool. With a few clicks on the platform, you 
 | Initial NFT Offering (INO) |   ✅   YES     |   NO ❌   |        NO ❌       |
 
 ****\
-**Estimated launch:** July 28, 2022\
+**Estimated launch:** August 15, 2022\
 **Network:** Mainnet(BSC)\
 ****\
 **Launchpad feature:**\
