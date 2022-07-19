@@ -17,7 +17,7 @@ Telegram Channel:[https://t.me/Khepren\_Channel](https://t.me/Khepren\_Channel)
 
 Twitter:[https://twitter.com/KhephrenProject](https://twitter.com/KhephrenProject)
 
-Discord: [https://discord.gg/WtpXHcKMKB](https://discord.gg/WtpXHcKMKB)
+Discord:[ ](https://gleam.io/competitions/CL4Tx-khephren-gleam-giveaway-win-share-5000-kprn)[https://discord.gg/4DqYFMHUZJ](https://discord.gg/4DqYFMHUZJ)
 
 Facebook:[https://www.facebook.com/khephrenOfficial](https://www.facebook.com/khephrenOfficial)
 
