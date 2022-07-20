@@ -21,7 +21,7 @@ coverY: 0
   Private Sale Phase 2: Sept 1 - 9
 * **September 12, 2022**\
   ****Public Sale Phase 1: Sept 12 - 22
-* **September 13, 2020**\
+* **September 13, 2022**\
   ****kprnSTAKING platform release
 * **September 24, 2022**\
   ****Public Sale Phase 2: Sept 24 - Oct 3
