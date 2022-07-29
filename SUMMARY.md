@@ -16,10 +16,9 @@
 
 ## Important
 
-* [Dex Partners](important/dex-partners.md)
+* [Dex Partners and default router](important/dex-partners-and-default-router.md)
 * [Audit & KYC'd partners](important/audit-and-kycd-partners.md)
 * [Social media & website](important/social-media-and-website.md)
-* [Smart contract](important/smart-contract.md)
 * [Wallet Holder (Kprn Token)](important/wallet-holder-kprn-token.md)
 
 ## Project to be Launch
