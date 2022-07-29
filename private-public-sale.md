@@ -19,6 +19,8 @@ The token sale is divided into two categories and two phases. For the token sale
 
 **Listing price:** $0.017
 
+**Liquidity percentage (Public sale):** 80%
+
 
 
 | TOKEN SALE TABLE     | Private sale           | Public sale            |
@@ -29,9 +31,9 @@ The token sale is divided into two categories and two phases. For the token sale
 | **Min / Max Buy**    | 0.017 BNB / 35 BNB     | 0.017 BNB / No limit   |
 | **Vesting Period**   | 3 months               | 2 months               |
 
-|     Phase of sale    |    Softcap   |    Hardcap   |
-| :------------------: | :----------: | :----------: |
-| Private sale phase 1 | **35.6 BNB** | **71.3 BNB** |
-| Private sale phase 2 |  **125 BNB** |  **250 BNB** |
-|  Public sale phase 1 |  **464 BNB** |  **928 BNB** |
-|  Public sale phase 2 |  **571 BNB** | **1142 BNB** |
+|       Phase of sale      |    Softcap   |    Hardcap   |
+| :----------------------: | :----------: | :----------: |
+| **Private sale phase 1** | **35.6 BNB** | **71.3 BNB** |
+| **Private sale phase 2** |  **125 BNB** |  **250 BNB** |
+|  **Public sale phase 1** |  **464 BNB** |  **928 BNB** |
+|  **Public sale phase 2** |  **571 BNB** | **1142 BNB** |
