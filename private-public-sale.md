@@ -26,7 +26,7 @@ The token sale is divided into two categories and two phases. For the token sale
 | **Phase 1 price**    | $0.002                 | $0.013                 |
 | **Phase 2  price**   | $0.007                 | $0.016                 |
 | **unlock / vesting** | 60% unlock 40% vesting | 80% unlock 20% vesting |
-| **Min / Max Buy**    | 0.017 BNB / 35 BNB     | $0.017 BNB / No limit  |
+| **Min / Max Buy**    | 0.017 BNB / 35 BNB     | 0.017 BNB / No limit   |
 | **Vesting Period**   | 3 months               | 2 months               |
 
 |     Phase of sale    |    Softcap   |    Hardcap   |
