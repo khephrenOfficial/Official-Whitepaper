@@ -8,7 +8,13 @@ coverY: 0
 
 # Audit & KYC'd partners
 
-**List will update soon.**\
-****
+## **Official Partnership:**
 
-KYC & AUDIT partners (recommended) will be listed here.
+#### ****
+
+### **VitalBlock:**&#x20;
+
+**Website:** [**https://vitalblock.org/**](https://vitalblock.org/)****\
+**Telegram:**[**https://t.me/Vital\_Block**](https://t.me/Vital\_Block)****\
+**Twitter:** [**https://twitter.com/Vital\_BlockA**](https://twitter.com/Vital\_BlockA)****\
+****

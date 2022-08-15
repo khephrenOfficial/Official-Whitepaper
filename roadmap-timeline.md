@@ -12,7 +12,7 @@ coverY: 0
 *   **July 28, 2022**
 
     Launch of our official smart contract token (Khephren Token 'KPRN')
-*   **August 15, 2022**
+*   **August 18, 2022**
 
     kprnPAD Launchpad release
 * **August 22, 2022**\
