@@ -11,7 +11,9 @@ We have 20 members working together to build the project that we're going to lau
 
 As with the web2 era, Khephren feels that embracing web3 blockchain is the best course of action and that this is the future. We still have time to create incredible and beneficial Dapps (web3 applications) for everyone, as blockchain is still in its early stages of development.
 
-
+\
+**What is Khephren?**\
+****Khephren is a multi-chain project focusing on building DAPP web3 blockchain technology base projects with only one native token to use in the ecosystem of Khephren.
 
 **Khephren Advantages**\
 ****Multiple projects with a single native token to be used in the ecosystem. Khephren is the first project to pay BNB/Stablecoin revenue offer to our stakeholders and discounted service fees when you stake your KPRN token.
