@@ -19,7 +19,7 @@ The token sale is divided into two categories and two phases. For the token sale
 
 **Listing price:** $0.017
 
-**Liquidity percentage (Public sale):** 80%
+**Liquidity percentage (Public sale):** 80% total raised.
 
 
 
