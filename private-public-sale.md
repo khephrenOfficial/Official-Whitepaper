@@ -9,11 +9,11 @@ The token sale is divided into two categories and two phases. For the token sale
 
 **Total token allocation:** 60,000,000 $KPRN Token.
 
-**Token sale start:** TBA
+**Token sale start:** **Q3-Q4 2022**
 
-**Token sale end:** TBA
+**Token sale end:** **Q3-Q4 2022**
 
-**Listing date:** TBA
+**Listing date: Q3-Q4 2022**
 
 **Listing Exchange:** Pancakeswap
 

@@ -15,17 +15,16 @@ coverY: 0
 *   **September 12, 2022**
 
     kprnPAD Launchpad release
-* **TBA**\
+* **Q3-Q4 2022**\
   Private sale Phase 1: August 22 - 30
-* **TBA**\
+* **Q3-Q4 2022**\
   Private Sale Phase 2: Sept 1 - 9
-* **TBA**\
+* **Q3-Q4 2022**\
   ****Public Sale Phase 1: Sept 12 - 22
-* **TBA**\
-  ****kprnSTAKING platform release
-* **TBA**\
+* **Q3-Q4 2022**kprnSTAKING platform release
+* **Q3-Q4 2022**\
   ****Public Sale Phase 2: Sept 24 - Oct 3
-* **TBA**\
+* **Q3-Q4 2022**\
   Mobile app release
 *   **Q4 2022**
 

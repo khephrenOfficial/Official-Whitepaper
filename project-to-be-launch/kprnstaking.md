@@ -19,4 +19,4 @@ NFT rewards rate will be base on owner set of token/nft
 
 _Staked 1 NFT earn 15 tokens/day_
 
-**Estimated release:**  _TBA_
+**Estimated release:**  __  **Q3-Q4 2022**
