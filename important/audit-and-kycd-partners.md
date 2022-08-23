@@ -20,7 +20,7 @@ coverY: 0
 
 ****
 
-## **Manage Of DeFi:**
+## **Management Of DeFi:**
 
 **Website:**[ **** ](https://t.co/6cpKuX9n7R)****[**https://www.managementofdefi.com/**](https://www.managementofdefi.com/)****\
 **Discord:**  [**https://t.co/RgctvQxJtJ**](https://t.co/RgctvQxJtJ)****\
