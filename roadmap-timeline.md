@@ -25,7 +25,7 @@ coverY: 0
   ****kprnSTAKING platform release
 * **TBA**\
   ****Public Sale Phase 2: Sept 24 - Oct 3
-* **September 30, 2022**\
+* **TBA**\
   Mobile app release
 *   **Q4 2022**
 
