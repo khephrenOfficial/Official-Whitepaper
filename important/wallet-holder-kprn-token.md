@@ -6,7 +6,7 @@ description: Khephren all wallet addresses
 
 As a promise to our investors, we will keep all transactions clear. We will make all of the wallets listed below public. Some of the addresses have a vesting period or are locked in a token locker smart contract.
 
-Khephren Team will be always transparent to all investors.
+**Khephren Team will be always transparent to all investors.**
 
 ****
 
@@ -24,4 +24,5 @@ Khephren Team will be always transparent to all investors.
 
 **Marketing** - 0xf22f89781f9A3834F1857F53E26478C1463e8ecd&#x20;
 
-**Developers** - 0xE4b78Bbe687360a49A9C5d1E5d0BE739F38176F1
+**Developers** - 0xE4b78Bbe687360a49A9C5d1E5d0BE739F38176F1\
+\
