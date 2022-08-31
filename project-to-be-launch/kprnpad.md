@@ -5,7 +5,7 @@ coverY: 0
 
 # kprnPAD
 
-KprnPAD is a self-served launchpad pool. With a few clicks on the platform, you can create your own launchpad sale. This will help small start-up projects acquire capital from community investors, and it will also enable the community to capitalize on investment opportunities. Khephren also has the lowest service fees in the Launchpad category compared to our competitors, who begin at 1 BNB.
+KprnPAD is a self-served launchpad pool. With a few clicks on the platform, you can create your own launchpad sale. This will help small start-up projects acquire capital from community investors, and it will also enable the community to capitalize on investment opportunities.&#x20;
 
 \
 **Advantage in competitors**
