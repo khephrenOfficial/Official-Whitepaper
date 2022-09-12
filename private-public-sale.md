@@ -19,7 +19,7 @@ The token sale is divided into two categories and two phases. For the token sale
 
 **Listing price:** $0.017
 
-**Liquidity percentage (Public sale):** 80% total raised. If we sell out the public sale, a total of $464,000 will be added to the liquidity pool.\
+**Liquidity percentage (Public sale):** 80% total raised. If we sell out the public sale, a total of $464,000 worth of BNB will be added to the liquidity pool.\
 \
 **Vesting period:** Token locked will be unlocked after the vesting period for each phase of sale.
 
