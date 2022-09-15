@@ -32,6 +32,7 @@
 
 * [Service Fees](kprnpad-guide/service-fees.md)
 * [Launchpad List](kprnpad-guide/launchpad-list.md)
+* [Launchpad Dashboard](kprnpad-guide/launchpad-dashboard.md)
 * [Launchpad creation](kprnpad-guide/launchpad-creation.md)
 * [Seller Account page](kprnpad-guide/seller-account-page.md)
 * [Launchpad update](kprnpad-guide/launchpad-update.md)
