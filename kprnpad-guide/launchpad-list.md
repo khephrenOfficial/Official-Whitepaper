@@ -11,7 +11,7 @@ All listed projects will be visible on this page.\
 
 <figure><img src="../.gitbook/assets/launchpad list.png" alt=""><figcaption><p><em>All project listed on the launchpad</em></p></figcaption></figure>
 
-**View pool** - Click here to view the project sale launchpad information.
+**View pool** - Click here to view the project sale launchpad page.
 
 <figure><img src="../.gitbook/assets/view pool.png" alt=""><figcaption><p><strong>View pool</strong></p></figcaption></figure>
 
