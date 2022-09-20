@@ -27,8 +27,8 @@ The token sale is divided into two categories and two phases. For the token sale
 
 |       Phase of sale      | Token price | Token allocation |                    Vesting period                   | Initial Market cap |
 | :----------------------: | :---------: | :--------------: | :-------------------------------------------------: | :----------------: |
-| **Private sale phase 1** |    $0.002   |  10,000,000 KPRN | <p>40% unlocked, 60% locked for </p><p>4 months</p> |       $20,000      |
-| **Private sale phase 2** |    $0.007   |  10,000,000 KPRN | <p>50% unlocked, 50% locked for </p><p>4 months</p> |       $70,000      |
+| **Private sale phase 1** |    $0.002   |  10,000,000 KPRN | <p>40% unlocked, 60% locked for </p><p>5 months</p> |       $20,000      |
+| **Private sale phase 2** |    $0.007   |  10,000,000 KPRN | <p>40% unlocked, 60% locked for </p><p>5 months</p> |       $70,000      |
 |  **Public sale phase1**  |    $0.013   |  20,000,000 KPRN | <p>60% unlocked, 40% locked for </p><p>3 months</p> |      $260,000      |
 |  **Public sale phase 2** |    $0.016   |  20,000,000 KPRN | <p>60% unlocked, 40% locked for </p><p>3 months</p> |      $320,000      |
 
