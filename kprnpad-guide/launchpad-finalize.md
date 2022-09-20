@@ -2,7 +2,7 @@
 
 **To finalize the sale, go to "Manage Projects".**
 
-<figure><img src="../.gitbook/assets/manage-project (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/manage-project.png" alt=""><figcaption></figcaption></figure>
 
 After you clicking manage projects, you will redirect to your dashboard.
 
