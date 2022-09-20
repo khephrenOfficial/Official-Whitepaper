@@ -37,6 +37,7 @@
 * [Seller Account page](kprnpad-guide/seller-account-page.md)
 * [Launchpad update](kprnpad-guide/launchpad-update.md)
 * [Launchpad finalize](kprnpad-guide/launchpad-finalize.md)
+* [Common issue to finalize sale](kprnpad-guide/common-issue-to-finalize-sale.md)
 
 ## kprnstaking guide
 
