@@ -4,7 +4,7 @@ To see all the project token sales you've created, you just need to click "Manag
 \
 
 
-<figure><img src="../.gitbook/assets/manage-project (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/manage-project.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Project-created.png" alt=""><figcaption></figcaption></figure>
 
