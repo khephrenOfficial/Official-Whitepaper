@@ -19,7 +19,7 @@
 * [Dex Partners and default router](important/dex-partners-and-default-router.md)
 * [Audit & KYC'd partners](important/audit-and-kycd-partners.md)
 * [Social media & website](important/social-media-and-website.md)
-* [Wallet Holder (Kprn Token)](important/wallet-holder-kprn-token.md)
+* [Dev wallets (KPRN TOKEN HOLD)](important/dev-wallets-kprn-token-hold.md)
 
 ## Project to be Launch
 
