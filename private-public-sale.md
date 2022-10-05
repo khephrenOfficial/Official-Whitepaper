@@ -15,26 +15,19 @@ The token sale is divided into two categories and two phases. For the token sale
 
 **Listing date: Q3-Q4 2022**
 
-**Listing Exchange:** Pancakeswap
+**Listing Exchange:** Pancakeswap more exchange soon
 
-**Listing price:** $0.017
+**Listing price:** $0.016
 
-**Liquidity percentage (Public sale):** 80% total raised. If we sell out the public sale, a total of $464,000 worth of BNB will be added to the liquidity pool.\
-\
-**Vesting period:** Token locked will be unlocked after the vesting period for each phase of sale.
+****
 
 
 
-|       Phase of sale      | Token price | Token allocation |                    Vesting period                   | Initial Market cap |
-| :----------------------: | :---------: | :--------------: | :-------------------------------------------------: | :----------------: |
-| **Private sale phase 1** |    $0.002   |  10,000,000 KPRN | <p>40% unlocked, 60% locked for </p><p>5 months</p> |       $20,000      |
-| **Private sale phase 2** |    $0.007   |  10,000,000 KPRN | <p>40% unlocked, 60% locked for </p><p>5 months</p> |       $70,000      |
-|  **Public sale phase1**  |    $0.013   |  20,000,000 KPRN | <p>60% unlocked, 40% locked for </p><p>3 months</p> |      $260,000      |
-|  **Public sale phase 2** |    $0.016   |  20,000,000 KPRN | <p>60% unlocked, 40% locked for </p><p>3 months</p> |      $320,000      |
+|       Phase of sale      | Token price | Token allocation |                     Vesting period                    |
+| :----------------------: | :---------: | :--------------: | :---------------------------------------------------: |
+| **Private sale phase 1** |    $0.008   |  10,000,000 KPRN | <p>20% TGE, 80% Linear vesting for</p><p>5 months</p> |
+| **Private sale phase 2** |    $0.009   |  10,000,000 KPRN | <p>15% TGE, 80% Linear vesting for</p><p>5 months</p> |
 
-|       Phase of sale      |  Softcap |  Hardcap |
-| :----------------------: | :------: | :------: |
-| **Private sale phase 1** |  $10,000 |  $20,000 |
-| **Private sale phase 2** |  $35,000 |  $70,000 |
-|  **Public sale phase 1** | $130,000 | $260,000 |
-|  **Public sale phase 2** | $160,000 | $320,000 |
+| IDO PHASE | Price  | Token allocation | Vesting schedule                         |
+| --------- | ------ | ---------------- | ---------------------------------------- |
+| IDO info  | $0.015 | 40,000,000 KRPN  | 30% TGE, 70% linear vesting for 5 months |

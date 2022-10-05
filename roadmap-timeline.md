@@ -16,14 +16,13 @@ coverY: 0
 
     kprnPAD Launchpad release
 * **Q3-Q4 2022**\
-  Private sale Phase 1: August 22 - 30
+  Private sale will be announce
 * **Q3-Q4 2022**\
-  Private Sale Phase 2: Sept 1 - 9
+  Private sale will be announce
 * **Q3-Q4 2022**\
-  ****Public Sale Phase 1: Sept 12 - 22
+  ****IDO date launch will be announce
 * **Q3-Q4 2022**kprnSTAKING platform release
-* **Q3-Q4 2022**\
-  ****Public Sale Phase 2: Sept 24 - Oct 3
+*
 * **Q3-Q4 2022**\
   Mobile app release
 *   **Q4 2022**
