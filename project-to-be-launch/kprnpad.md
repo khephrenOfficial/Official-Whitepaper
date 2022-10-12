@@ -7,21 +7,11 @@ coverY: 0
 
 KprnPAD is a self-served launchpad pool. With a few clicks on the platform, you can create your own launchpad sale. This will help small start-up projects acquire capital from community investors, and it will also enable the community to capitalize on investment opportunities.&#x20;
 
-\
-**Advantage in competitors**
 
-|        Service fees        |    Khephren   | PinkSale |       Dx.app      |
-| :------------------------: | :-----------: | :------: | :---------------: |
-|      Launchpad listing     |   ✅ 0.5 BNB   |   1 BNB  |      0.99 BNB     |
-|        Create Token        |   ✅ 0.1 BNB   |  0.2 BNB | 0.5 BNB / 1.2 BNB |
-|      Total raised bnb      | ✅   1٪        |    2٪    |         2٪        |
-|      Total sold tokens     | ✅    1٪       |    2٪    |         2٪        |
-|         Mobile app         |   ✅   YES     |   NO ❌   |        NO ❌       |
-| Initial NFT Offering (INO) |   ✅   YES     |   NO ❌   |        NO ❌       |
 
 ****\
 **Estimated launch:** September 12, 2022\
-**Network:** Mainnet(BSC)\
+**Network:** Mainnet(BSC), OKC, DogeChain, Polygon, Cronos, ETH\
 ****\
 **Launchpad feature:**\
 ****_1.Multi-Chain Network_\
