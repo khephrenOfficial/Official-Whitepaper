@@ -25,9 +25,9 @@ The token sale is divided into two categories and two phases. For the token sale
 
 |       Phase of sale      | Token price | Token allocation |                     Vesting period                    |
 | :----------------------: | :---------: | :--------------: | :---------------------------------------------------: |
-| **Private sale phase 1** |    $0.008   |  10,000,000 KPRN | <p>20% TGE, 80% Linear vesting for</p><p>4 months</p> |
-| **Private sale phase 2** |    $0.009   |  10,000,000 KPRN | <p>20% TGE, 80% Linear vesting for</p><p>4 months</p> |
+| **Private sale phase 1** |    $0.002   |  10,000,000 KPRN | <p>20% TGE, 80% Linear vesting for</p><p>4 months</p> |
+| **Private sale phase 2** |    $0.007   |  10,000,000 KPRN | <p>30% TGE, 70% Linear vesting for</p><p>4 months</p> |
 
 | IDO PHASE | Price  | Token allocation | Vesting schedule                         |
 | --------- | ------ | ---------------- | ---------------------------------------- |
-| IDO info  | $0.015 | 40,000,000 KRPN  | 30% TGE, 70% linear vesting for 4 months |
+| IDO info  | $0.015 | 40,000,000 KRPN  | 50% TGE, 50% linear vesting for 4 months |

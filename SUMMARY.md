@@ -30,6 +30,7 @@
 
 ## KprnPAD Guide
 
+* [Token Builder](kprnpad-guide/token-builder.md)
 * [Service Fees](kprnpad-guide/service-fees.md)
 * [Launchpad List](kprnpad-guide/launchpad-list.md)
 * [Launchpad creation](kprnpad-guide/launchpad-creation.md)
