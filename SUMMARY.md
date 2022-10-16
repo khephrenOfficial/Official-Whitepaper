@@ -44,17 +44,3 @@
 * [Service Fees](kprnstaking-guide/service-fees.md)
 * [How to stake](kprnstaking-guide/how-to-stake.md)
 * [How to list your token](kprnstaking-guide/how-to-list-your-token.md)
-
-## CryptoReviews guide
-
-* [What is CryptoReviews?](cryptoreviews-guide/what-is-cryptoreviews.md)
-
-## Khephren Mobile App guide
-
-* [Mobile App](khephren-mobile-app-guide/mobile-app.md)
-* [How to use it?](khephren-mobile-app-guide/how-to-use-it.md)
-
-## FAQ
-
-* [Video Guide](faq/video-guide.md)
-* [How to buy KPRN Token?](faq/how-to-buy-kprn-token.md)
