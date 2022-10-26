@@ -13,6 +13,7 @@
 * [Khephren Use-case](khephren-use-case.md)
 * [Ecosystem](ecosystem.md)
 * [Roadmap / Timeline](roadmap-timeline.md)
+* [Vesting](vesting.md)
 
 ## Important
 

@@ -32,4 +32,6 @@ coverY: 0
 
     Release of a new project (CryptoReviews and future project to launch)
 * **Q1 2023**\
-  ****Expecting more than 100,000 user of Khephren Dapp&#x20;
+  ****Expecting more than 100,000 user of Khephren Dapp \
+  \
+  \
